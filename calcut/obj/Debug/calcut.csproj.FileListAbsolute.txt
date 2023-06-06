@@ -1,0 +1,11 @@
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\bin\Debug\calcut.exe.config
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\bin\Debug\calcut.exe
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\bin\Debug\calcut.pdb
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.Form1.resources
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.Properties.Resources.resources
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.csproj.GenerateResource.cache
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.exe
+C:\Users\AMIR\OneDrive\Desktop\c\calcut\calcut\obj\Debug\calcut.pdb
